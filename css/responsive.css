@@ -1,0 +1,32 @@
+
+.infophoto{
+
+
+  }
+.corps{
+
+}
+
+
+@media only screen and (max-width: 740px) {
+
+.corps{
+
+
+ }
+
+}
+
+ 
+
+
+
+ @media only screen and (max-width: 570px) {
+
+.infophoto, .corps{
+
+width:100%;
+
+ }
+
+    }
